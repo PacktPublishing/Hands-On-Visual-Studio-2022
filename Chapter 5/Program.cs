@@ -29,22 +29,10 @@ app.MapControllerRoute(
 app.MapFallbackToFile("index.html");
 
 
-
-
-
 for(int i = 0; i < 10; i++)
 {
     Console.WriteLine(i);
 }
-
-
-
-
-
-
-
-
-
 
 
 StopHere();
@@ -54,23 +42,7 @@ NewMethod();
 CommonMethod("After invocation of NewMethod()");
 
 
-
-
-
 TestLocalsAndAutos();
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 void StopHere()
@@ -97,20 +69,5 @@ void TestLocalsAndAutos()
         Console.WriteLine(i);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 app.Run();
