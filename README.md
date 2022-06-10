@@ -1,2 +1,2 @@
-# The-Developers-Ultimate-Guide-to-Visual-Studio-22
-The Developers Ultimate Guide to Visual Studio 22, published by Packt
+# Hands-On Visual Studio 2022
+Hands-On Visual Studio 2022, published by Packt
