@@ -61,3 +61,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Miguel** is a solutions architect expert at Microsoft Technologies with over 10 years of experience. In 2020, he was recognized as a Microsoft MVP, and in 2021, as an Alibaba Cloud MVP. Miguel is an active member of tech communities and a content author in C# corner.
 
 **Hector** is an experienced senior developer, with more than 10 years of experience in developing desktop, web, and mobile solutions with the .NET platform. He was recognized in 2021 with the Microsoft MVP award. He is an active member of the community and has his own training academy.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801810548">https://packt.link/free-ebook/9781801810548 </a> </p>
